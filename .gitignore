@@ -1,4 +1,6 @@
 .idea/
+graph.iml
+
 target/
 pom.xml.tag
 pom.xml.releaseBackup
